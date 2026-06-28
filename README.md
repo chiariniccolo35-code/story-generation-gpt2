@@ -2,6 +2,7 @@
 
 A deep learning project implementing a Transformer-based language model (GPT-2) for generating children's stories conditioned on narrative features.
 
+> Group project — co-authored with Federico Grillini and Alessandro Gardenghi (University of Bologna).
 ## Project Overview
 
 This project develops a generative language model capable of creating coherent, feature-conditioned short stories. Given a set of narrative tags (e.g., Dialogue, Conflict, Twist), the model generates contextually appropriate stories that embody the specified features.
